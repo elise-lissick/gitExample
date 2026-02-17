@@ -1,2 +1,3 @@
+role,NetID,LastName,FirstName
 boss,elissick,Lissick,Elise
 employee,ebrunsell,Brunsell,Emma
